@@ -8,7 +8,7 @@ hero:
   # tagline: "青柠工作室招新官网"
   tagline: "2025秋季招新"
   image:
-    src: /src/logo-text-resize.png
+    src: /logo-text-resize.png
     # alt: logo-text
   actions:
     - theme: brand

@@ -5,13 +5,13 @@ export default defineConfig({
   srcDir: "qingning",
 
   title: "青年之心 凝聚于此",
-  head: [["link", { rel: "icon", href: "/src/logo-l.png" }]],
+  head: [["link", { rel: "icon", href: "/logo-l.png" }]],
   lang: 'zh-CN',
   description: "青柠工作室招新官网",
   appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/src/logo-l.png',
+    logo: '/logo-l.png',
     nav: [
       { text: '工作室介绍', link: '/introduction/index', },
       {
@@ -75,6 +75,12 @@ export default defineConfig({
 
     search: {
       provider: 'local',
+    },
+  },
+
+  vite: {
+    ssr: {
+      noExternal: ['@escook/vitepress-theme', 'vitepress']
     }
   }
 })
