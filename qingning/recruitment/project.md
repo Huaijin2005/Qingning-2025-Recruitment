@@ -1,3 +1,12 @@
+---
+prev:
+  text: '算法部分'
+  link: '/recruitment/algorithm'
+next:
+  text: '附加题：论文阅读'
+  link: '/recruitment/additional'
+---
+
 # 项目部分
 
 本部分任选一题完成即可。

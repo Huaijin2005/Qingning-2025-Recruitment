@@ -1,3 +1,12 @@
+---
+prev:
+  text: '前端'
+  link: '/map/frontend'
+next:
+  text: '2025秋季招新 | 招新'
+  link: '/recruitment/index'
+---
+
 # 后端方向推荐资料
 
 ## Java

@@ -1,3 +1,12 @@
+---
+prev:
+  text: '写在前面'
+  link: '/map/index'
+next:
+  text: '前端'
+  link: '/map/frontend'
+---
+
 # 深度学习方向推荐资料
 
 ## 经典课程
