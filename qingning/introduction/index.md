@@ -20,4 +20,4 @@ next:
 
 PS：工作室Github仅公开部分资料，更多资源待你加入探索！
 
-![image-20250904002312271](https://cdn.jsdelivr.net/gh/Huaijin2005/image_host@main/test/20250904002312440.png)
+![招新海报](/poster.png)
